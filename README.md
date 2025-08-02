@@ -32,7 +32,8 @@ CivicGreen is a gamified municipal dashboard that promotes eco-awareness and sus
 
 ## GitHub Repository Link
 [https://github.com/zyrus-sky/CivicGreen](https://github.com/zyrus-sky/CivicGreen)
-
+## demo Link(Features limited cuz it developed with limited amount of time)
+[https://civicgreen-ffs.streamlit.app/] (https://civicgreen-ffs.streamlit.app/)
 ---
 
 ## Team Members & Roles
